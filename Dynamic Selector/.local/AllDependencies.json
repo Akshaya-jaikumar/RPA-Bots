@@ -1792,11 +1792,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Dynamic Selector",
-      "projectName": "Dynamic Selector",
-      "projectPath": "C:\\Users\\Lenovo\\Documents\\UiPath\\Dynamic Selector\\.local",
+      "projectUniqueName": "Dynamic selector",
+      "projectName": "Dynamic selector",
+      "projectPath": "C:\\Users\\Lenovo\\Documents\\UiPath\\Dynamic selector\\.local",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Documents\\UiPath\\Dynamic Selector\\.local"
+      "outputPath": "C:\\Users\\Lenovo\\Documents\\UiPath\\Dynamic selector\\.local"
     },
     "frameworks": {
       "net461": {
